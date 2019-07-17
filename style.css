@@ -1,0 +1,48 @@
+#m {
+  background-color: red;
+  color: white;
+}
+.header1 {
+  border: 15px solid black;
+  padding: 50 px;
+  margin: 20px;
+}
+
+.disclaimer {
+  position: absolute;
+  top: 370px;
+  right: 5px;
+  float: right;
+  border: 5px solid black;
+  padding: 10px;
+  margin: 20px;
+}
+
+.padding {
+  margin: 10px
+}
+
+.image {
+  position: relative;
+  width: 550px;
+  height: 600px;
+  right: 5px;
+  float: right;
+
+}
+
+#bBattlePlan {
+  position: absolute;
+  right: 410px;
+  top: 5px;
+  display: inline-block;
+  background-color: white;
+  color: black;
+  border: 2px solid black;
+}
+
+#warning {
+  position: absolute;
+  right: 405px;
+  top:70px;
+}
