@@ -8,6 +8,12 @@
   margin: 20px;
 }
 
+#map {
+  width: 300px;
+  height: 300px;
+  background-color: white;
+}
+
 .disclaimer {
   position: absolute;
   top: 370px;
